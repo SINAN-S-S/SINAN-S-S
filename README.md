@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,100:1e40af&height=220&section=header&text=Sinan&fontColor=e2e8f0&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=hello_world.js;Building+Creative+Web+Experiences;Full+Stack+Developer;MERN+Stack"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hello_World;Building+Creative+Web+Experiences;Full+Stack+Developer;MERN+Stack"/>
 
 </div>
 
@@ -107,7 +107,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=SINAN-S-S&th
 
 <div align="center">
 
-### Build() ☕
+### Build☕
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:020817&height=120&section=footer"/>
 
