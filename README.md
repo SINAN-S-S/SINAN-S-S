@@ -93,7 +93,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=SINAN-S-S&th
 <img src="https://img.shields.io/badge/GitHub-020817?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/sinan-9993273a7">
+<a href="https://www.linkedin.com/in/sinan-k-9993273a7/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
