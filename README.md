@@ -8,7 +8,7 @@
 
 ---
 
-# <img width="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/> About Me
+#  About Me
 
 ```javascript
 const dev = {
