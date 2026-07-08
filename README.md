@@ -200,7 +200,6 @@ https://github.com/SINAN-S-S
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SINAN-S-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SINAN-S-S&theme=tokyonight&hide_border=true&background=020817"/>
 
@@ -210,7 +209,35 @@ https://github.com/SINAN-S-S
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SINAN-S-S&theme=react-dark&hide_border=true&bg_color=020817"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SINAN-S-S&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SINAN-S-S&theme=react-dark&hide_border=true&bg_color=020817"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SINAN-S-S&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SINAN-S-S&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SINAN-S-S&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SINAN-S-S&theme=tokyonight"/>
 
 </div>
 
