@@ -109,7 +109,7 @@ React • Node.js • Express • MongoDB
 
 🔗 **Repository**
 
-https://github.com/SINAN-S-S
+https://github.com/SINAN-S-S/GreenBasket
 
 </td>
 
@@ -135,7 +135,7 @@ React • Node.js • Express • MongoDB
 
 🔗 **Repository**
 
-https://github.com/SINAN-S-S
+https://github.com/SINAN-S-S/GYM_Final
 
 </td>
 
@@ -162,7 +162,7 @@ React • CSS • Bootstrap
 
 🔗 **Repository**
 
-https://github.com/SINAN-S-S
+https://github.com/SINAN-S-S/Coffee-Shop
 
 </td>
 
