@@ -77,10 +77,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=SINAN-S-S&th
 # Current Status
 
 ```txt
-[██████████░░░░░░] Full Stack Development
-[████████████░░░░] React
-[█████████████░░░] Django
-[███████████░░░░░] MERN
+[████████████████] Full Stack Development
+[███████████████░] React
+[███████████████░] Django
+[███████████████] MERN
 ```
 
 ---
