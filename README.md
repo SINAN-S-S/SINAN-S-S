@@ -186,7 +186,7 @@ React • CSS
 
 🔗 **Repository**
 
-https://github.com/SINAN-S-S
+https://frontend-eight-roan-wcyidx1qb6.vercel.app/
 
 </td>
 
